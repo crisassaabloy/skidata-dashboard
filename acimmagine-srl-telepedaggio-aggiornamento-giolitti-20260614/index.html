@@ -71,7 +71,7 @@ body{font-family:"Source Sans 3",sans-serif;background:#fff;color:var(--sk-black
     <div class="sk-logo">SKIDATA</div>
     <div class="sk-logo-sub">Parking &amp; Mobility</div>
   </div>
-  <div class="sk-meta"><strong>Telepedaggio & aggiornamento Giolitti</strong><br>Cliente: ACIMMAGINE srl &nbsp;&middot;&nbsp; 14/06/2026 14:02</div>
+  <div class="sk-meta"><strong>Telepedaggio & aggiornamento Giolitti</strong><br>Cliente: ACIMMAGINE srl &nbsp;&middot;&nbsp; 14/06/2026 14:06</div>
 </div>
 <div class="main">
   <div style="background:var(--sk-black);color:#fff;padding:18px 22px;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px">
@@ -290,7 +290,19 @@ var ARTICOLI_PER_AREA = {"Canoni annuali": [{"cod": "945806023", "nome": "Mobili
     sorgente = nLS >= nInc ? datiLS : datiInc;
   }
   for (var s=0; s<sorgente.length; s++) voci.push(sorgente[s]);
-  if (voci.length === 0) { for (var z=0; z<5; z++) voci.push({desc:'', importo:0}); }
+  (function(){
+    var MIN = 5;
+    // separo compilate (desc o importo) da vuote, preservando l'ordine delle compilate
+    var comp = [];
+    for (var c=0; c<voci.length; c++) {
+      var v = voci[c];
+      var imp = parseFloat(v.importo) || 0;
+      if ((v.desc && String(v.desc).trim() !== '') || imp !== 0) comp.push(v);
+    }
+    // ricostruisco: tutte le compilate + vuote fino al minimo
+    voci = comp.slice();
+    while (voci.length < MIN) voci.push({desc:'', importo:0});
+  })();
   render();
 })();
 
