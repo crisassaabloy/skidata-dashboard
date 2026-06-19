@@ -124,5 +124,12 @@
     "data": "19/06/2026",
     "cartella": "genova-parcheggi-spa-parcheggio-carducci-genova-20260619",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/genova-parcheggi-spa-parcheggio-carducci-genova-20260619/"
+  },
+  {
+    "progetto": "Parcheggio sicuro Tortona",
+    "cliente": "C.P.P. SpA",
+    "data": "19/06/2026",
+    "cartella": "c-p-p-spa-parcheggio-sicuro-tortona-20260619",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/c-p-p-spa-parcheggio-sicuro-tortona-20260619/"
   }
 ]
