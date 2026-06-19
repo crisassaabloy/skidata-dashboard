@@ -72,7 +72,7 @@ body{font-family:"Source Sans 3",sans-serif;background:#fff;color:var(--sk-black
     <div class="sk-logo-sub">Parking &amp; Mobility</div>
     <div style="font-size:10px;font-weight:700;color:#C0392B;font-style:italic;letter-spacing:.5px;margin-top:2px">Powered by BACR</div>
   </div>
-  <div class="sk-meta"><strong>Parcheggio Carducci Genova</strong><br>Cliente: Genova Parcheggi spa &nbsp;&middot;&nbsp; 19/06/2026 11:02</div>
+  <div class="sk-meta"><strong>Parcheggio Carducci Genova</strong><br>Cliente: Genova Parcheggi spa &nbsp;&middot;&nbsp; 19/06/2026 11:04</div>
 </div>
 <div class="main">
   <div style="background:var(--sk-black);color:#fff;padding:18px 22px;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px">
@@ -286,7 +286,7 @@ var ARTICOLI_PER_AREA = {"Canoni annuali": [{"cod": "945803625", "nome": "Mobili
     URL.revokeObjectURL(a.href);
   };
 
-  var _incRaw = [];
+  var _incRaw = {"voci": [{"desc": "", "importo": 0}, {"desc": "", "importo": 0}, {"desc": "", "importo": 0}, {"desc": "", "importo": 0}, {"desc": "", "importo": 0}], "manuale": {"costi": 59407.99, "ricavi": 89916.8}};
   // v30: il dato incorporato puo' essere una lista (vecchio) o {voci, manuale}
   var datiInc = Array.isArray(_incRaw) ? _incRaw : (_incRaw && _incRaw.voci ? _incRaw.voci : []);
   var manualeInc = (_incRaw && !Array.isArray(_incRaw) && _incRaw.manuale) ? _incRaw.manuale : null;
