@@ -154,13 +154,6 @@
     "url": "https://crisassaabloy.github.io/skidata-dashboard/atc-mp-mobilita-e-parcheggi-spa-2-skiosk-lite-solo-1-coder-unl-20260622/"
   },
   {
-    "progetto": "Nuove piste IEO",
-    "cliente": "ISTITUTO EUROPEO DI ONCOLOGIA Srl",
-    "data": "22/06/2026",
-    "cartella": "istituto-europeo-di-oncologia-srl-nuove-piste-ieo-20260622",
-    "url": "https://crisassaabloy.github.io/skidata-dashboard/istituto-europeo-di-oncologia-srl-nuove-piste-ieo-20260622/"
-  },
-  {
     "progetto": "",
     "cliente": "",
     "data": "22/06/2026",
@@ -180,5 +173,12 @@
     "data": "22/06/2026",
     "cartella": "imprese-turistiche-barziesi-spa-servizio-mobile-pay-20260622",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/imprese-turistiche-barziesi-spa-servizio-mobile-pay-20260622/"
+  },
+  {
+    "progetto": "Nuove piste IEO",
+    "cliente": "ISTITUTO EUROPEO DI ONCOLOGIA Srl",
+    "data": "22/06/2026",
+    "cartella": "istituto-europeo-di-oncologia-srl-nuove-piste-ieo-20260622",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/istituto-europeo-di-oncologia-srl-nuove-piste-ieo-20260622/"
   }
 ]
