@@ -203,17 +203,17 @@
     "url": "https://crisassaabloy.github.io/skidata-dashboard/--20260623/"
   },
   {
-    "progetto": "DASHBOARD",
-    "cliente": "",
-    "data": "24/06/2026",
-    "cartella": "-dashboard-20260624",
-    "url": "https://crisassaabloy.github.io/skidata-dashboard/-dashboard-20260624/"
-  },
-  {
     "progetto": "",
     "cliente": "",
     "data": "24/06/2026",
     "cartella": "--20260624",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/--20260624/"
+  },
+  {
+    "progetto": "DASHBOARD",
+    "cliente": "",
+    "data": "24/06/2026",
+    "cartella": "-dashboard-20260624",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/-dashboard-20260624/"
   }
 ]
