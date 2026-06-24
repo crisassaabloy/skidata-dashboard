@@ -203,13 +203,6 @@
     "url": "https://crisassaabloy.github.io/skidata-dashboard/--20260623/"
   },
   {
-    "progetto": "",
-    "cliente": "",
-    "data": "24/06/2026",
-    "cartella": "--20260624",
-    "url": "https://crisassaabloy.github.io/skidata-dashboard/--20260624/"
-  },
-  {
     "progetto": "DASHBOARD",
     "cliente": "",
     "data": "24/06/2026",
@@ -222,5 +215,12 @@
     "data": "24/06/2026",
     "cartella": "comune-di-rimini-nuovo-parcheggio-marvelli-p-zza-tripoli-20260624",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/comune-di-rimini-nuovo-parcheggio-marvelli-p-zza-tripoli-20260624/"
+  },
+  {
+    "progetto": "",
+    "cliente": "",
+    "data": "24/06/2026",
+    "cartella": "--20260624",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/--20260624/"
   }
 ]
