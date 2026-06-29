@@ -236,5 +236,12 @@
     "data": "29/06/2026",
     "cartella": "atc-mp-mobilita-e-parcheggi-spa-2-skiosk-lite-solo-1-coder-unl-20260629",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/atc-mp-mobilita-e-parcheggi-spa-2-skiosk-lite-solo-1-coder-unl-20260629/"
+  },
+  {
+    "progetto": "Parcheggio Carducci Genova",
+    "cliente": "Genova Parcheggi spa",
+    "data": "29/06/2026",
+    "cartella": "genova-parcheggi-spa-parcheggio-carducci-genova-20260629",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/genova-parcheggi-spa-parcheggio-carducci-genova-20260629/"
   }
 ]
