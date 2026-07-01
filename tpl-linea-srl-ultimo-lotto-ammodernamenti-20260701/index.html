@@ -79,7 +79,7 @@ body{font-family:"Source Sans 3",sans-serif;background:#fff;color:var(--sk-black
     <div class="sk-logo-sub">Parking &amp; Mobility</div>
     <div style="font-size:10px;font-weight:700;color:#C0392B;font-style:italic;letter-spacing:.5px;margin-top:2px">Powered by BACR</div>
   </div>
-  <div class="sk-meta"><strong>Ultimo lotto ammodernamenti</strong><br>Cliente: TPL LINEA SRL &nbsp;&middot;&nbsp; 01/07/2026 22:54</div>
+  <div class="sk-meta"><strong>Ultimo lotto ammodernamenti</strong><br>Cliente: TPL LINEA SRL &nbsp;&middot;&nbsp; 01/07/2026 23:03</div>
 </div>
 <div class="main">
   <div style="background:var(--sk-black);color:#fff;padding:18px 22px;margin-bottom:14px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px">
@@ -373,7 +373,7 @@ var ARTICOLI_PER_AREA = {"SWEB": [{"cod": "945803317", "nome": "sweb eTicket | A
     URL.revokeObjectURL(a.href);
   };
 
-  var _incRaw = [];
+  var _incRaw = {"voci": [{"desc": "", "importo": 0}, {"desc": "", "importo": 0}, {"desc": "", "importo": 0}, {"desc": "", "importo": 0}, {"desc": "", "importo": 0}], "manuale": {"costi": 179502.36, "ricavi": 201580}};
   // v30: il dato incorporato puo' essere una lista (vecchio) o {voci, manuale}
   var datiInc = Array.isArray(_incRaw) ? _incRaw : (_incRaw && _incRaw.voci ? _incRaw.voci : []);
   var manualeInc = (_incRaw && !Array.isArray(_incRaw) && _incRaw.manuale) ? _incRaw.manuale : null;
