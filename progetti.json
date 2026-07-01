@@ -257,5 +257,12 @@
     "data": "01/07/2026",
     "cartella": "csu-srl-aggiornamento-hardware-e-tecnologico-dei-20260701",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/csu-srl-aggiornamento-hardware-e-tecnologico-dei-20260701/"
+  },
+  {
+    "progetto": "E-CHARGE + TABELLONE",
+    "cliente": "GARAGE VELASCA",
+    "data": "01/07/2026",
+    "cartella": "garage-velasca-e-charge-tabellone-20260701",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/garage-velasca-e-charge-tabellone-20260701/"
   }
 ]
