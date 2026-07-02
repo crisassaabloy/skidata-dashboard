@@ -278,5 +278,12 @@
     "data": "01/07/2026",
     "cartella": "tpl-linea-srl-ultimo-lotto-ammodernamenti-20260701",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/tpl-linea-srl-ultimo-lotto-ammodernamenti-20260701/"
+  },
+  {
+    "progetto": "Telepedaggio & aggiornamento Giolitti",
+    "cliente": "ACIMMAGINE srl",
+    "data": "02/07/2026",
+    "cartella": "acimmagine-srl-telepedaggio-aggiornamento-giolitti-20260702",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/acimmagine-srl-telepedaggio-aggiornamento-giolitti-20260702/"
   }
 ]
