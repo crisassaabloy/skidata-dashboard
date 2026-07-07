@@ -299,5 +299,12 @@
     "data": "03/07/2026",
     "cartella": "genova-parcheggi-spa-parcheggio-carducci-genova-20260703",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/genova-parcheggi-spa-parcheggio-carducci-genova-20260703/"
+  },
+  {
+    "progetto": "Test",
+    "cliente": "Test",
+    "data": "07/07/2026",
+    "cartella": "test-test-20260707",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/test-test-20260707/"
   }
 ]
