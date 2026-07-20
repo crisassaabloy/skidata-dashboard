@@ -320,5 +320,12 @@
     "data": "08/07/2026",
     "cartella": "test-test-20260708",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/test-test-20260708/"
+  },
+  {
+    "progetto": "Lettura targhe e connettore ztl",
+    "cliente": "PARCHEGGIO FARINI di R.Frigeri",
+    "data": "20/07/2026",
+    "cartella": "parcheggio-farini-di-r-frigeri-lettura-targhe-e-connettore-ztl-20260720",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/parcheggio-farini-di-r-frigeri-lettura-targhe-e-connettore-ztl-20260720/"
   }
 ]
