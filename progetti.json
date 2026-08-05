@@ -390,5 +390,12 @@
     "data": "05/08/2026",
     "cartella": "linee-lecco-spa-sostituzione-pos-20260805",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/linee-lecco-spa-sostituzione-pos-20260805/"
+  },
+  {
+    "progetto": "AGGIORNAMENTO E AMMODERNAMENTO PARCHEGGIO SEMPIONE",
+    "cliente": "AVT VARESE",
+    "data": "05/08/2026",
+    "cartella": "avt-varese-aggiornamento-e-ammodernamento-parcheggi-20260805",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/avt-varese-aggiornamento-e-ammodernamento-parcheggi-20260805/"
   }
 ]
