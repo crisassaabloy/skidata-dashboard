@@ -383,5 +383,12 @@
     "data": "05/08/2026",
     "cartella": "tpl-linea-srl-door-gate-20260805",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/tpl-linea-srl-door-gate-20260805/"
+  },
+  {
+    "progetto": "Sostituzione POS",
+    "cliente": "LINEE LECCO SPA",
+    "data": "05/08/2026",
+    "cartella": "linee-lecco-spa-sostituzione-pos-20260805",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/linee-lecco-spa-sostituzione-pos-20260805/"
   }
 ]
