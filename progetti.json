@@ -376,5 +376,12 @@
     "data": "31/07/2026",
     "cartella": "c-p-r-cooperativa-sociale-a-r-l-cassa-aggiuntiva-parcheggio-rimini-20260731",
     "url": "https://crisassaabloy.github.io/skidata-dashboard/c-p-r-cooperativa-sociale-a-r-l-cassa-aggiuntiva-parcheggio-rimini-20260731/"
+  },
+  {
+    "progetto": "Door.Gate",
+    "cliente": "TPL LINEA SRL",
+    "data": "05/08/2026",
+    "cartella": "tpl-linea-srl-door-gate-20260805",
+    "url": "https://crisassaabloy.github.io/skidata-dashboard/tpl-linea-srl-door-gate-20260805/"
   }
 ]
